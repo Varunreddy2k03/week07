@@ -100,7 +100,7 @@ jobs:
   # =========================================================
   # Frontend Tests
   # =========================================================
-    frontend-test:
+  frontend-test:
     name: Test frontend
     runs-on: ubuntu-latest
 
